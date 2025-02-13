@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+Professional website for ESS 330 to learn how to use coding skills
 
-```{r}
-1 + 1
-```
+[Home page](http://localhost:6630/)

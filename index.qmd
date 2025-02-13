@@ -1,11 +1,20 @@
 ---
-title: "Lilly-Zapalac.github.io"
+title: "Lilly Zapalac"
+image: images/IMG_1994.jpeg
+toc: false
+about: 
+  template: trestles
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/lillyzapalac/
+    - text: Github
+      href: https://github.com/Lilly-Zapalac
+    - text: Email
+      href: mailto:lillyannezap@gmail.com
 ---
 
-This is a Quarto website.
+Hi, I am interested in water conservation and water law. I also am interested in qualitative analysis, and working with people to hope to find different solutiolns that can work for different communities. I hope to one day work with marine ecosystems and help with water quality.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+\
 
-```{r}
-1 + 1
-```
+## 

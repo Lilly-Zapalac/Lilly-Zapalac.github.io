@@ -1,0 +1,13 @@
+---
+title: "Skills learned"
+format: html
+editor: visual
+---
+
+-   How to upload a picture
+
+-   How to make new files to the navbar
+
+-   How to make links to my socials
+
+-   Adding templates
