@@ -4,6 +4,7 @@ project:
  
 website: 
   title: "Lilly Zapalac"
+  favicon: images/water-lilies.png
   navbar:
     left:
       - href: index.qmd
