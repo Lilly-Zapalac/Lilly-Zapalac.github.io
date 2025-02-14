@@ -1,5 +1,5 @@
 ---
-title: "Lilly Zapalac "
+title: "Lilly Zapalac"
 image: images/IMG_1994.jpeg
 toc: false
 about: 
