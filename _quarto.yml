@@ -11,7 +11,13 @@ website:
       - about.qmd
       - resources.qmd
       - Resume.qmd 
-        
+      - href: https://github.com/Lilly-Zapalac
+        text: My github
+  page-footer:
+    background: light
+    left: <p> &copy; 2025 Lilly Zapalac. All rights reserved</p>
+    right: This website is built with rstudio and github
+
       
 format:
   html:

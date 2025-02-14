@@ -1,13 +1,11 @@
 ---
-title: "Skills learned"
+title: "Projects"
 format: html
 editor: visual
 ---
 
--   How to upload a picture
+In Quantitative Reasoning for Ecosystem Science we are doing a project where we create a professional website. We have also done short projects where we have set up rstudio and answered questions related to data files.
 
--   How to make new files to the navbar
+[github](https://github.com/Lilly-Zapalac)
 
--   How to make links to my socials
-
--   Adding templates
+[homepage](index.qmd)

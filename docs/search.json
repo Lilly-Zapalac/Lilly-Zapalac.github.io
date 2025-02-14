@@ -1,66 +1,52 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Projects",
+    "section": "",
+    "text": "In Quantitative Reasoning for Ecosystem Science we are doing a project where we create a professional website. We have also done short projects where we have set up rstudio and answered questions related to data files.\ngithub\nhomepage"
+  },
+  {
+    "objectID": "Lilly-Zapalac.github.io/about.html",
+    "href": "Lilly-Zapalac.github.io/about.html",
     "title": "About",
     "section": "",
     "text": "Professional website for ESS 330 to learn how to use coding skills\nHome page"
+  },
+  {
+    "objectID": "Lilly-Zapalac.github.io/Resume.html",
+    "href": "Lilly-Zapalac.github.io/Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Fort Collins, CO, 80524 | (361)-557-1098 | Lillyannezap@gmail.com | linkedin.com/in/lillyzapalac\nI am an emerging ecologist who is interested in marine ecosystems and community building. I long to make information on environmental issues that directly impact both human and marine species way of life by making information more accessible to the public. Therefore, I aim to take the communication skills that I have now and add on to better reach the desired audiences."
+  },
+  {
+    "objectID": "Lilly-Zapalac.github.io/Resume.html#colorado-state-university-fort-collins-co-calculus-tutor-jan.2023-present",
+    "href": "Lilly-Zapalac.github.io/Resume.html#colorado-state-university-fort-collins-co-calculus-tutor-jan.2023-present",
+    "title": "Resume",
+    "section": "Colorado State University, Fort Collins, CO — Calculus Tutor Jan.2023-Present",
+    "text": "Colorado State University, Fort Collins, CO — Calculus Tutor Jan.2023-Present\n\nPerform diverse learning techniques to cater to different learning styles\nCreate an environment for students to feel comfortable with asking for help\nCommunicate with more experienced tutors to better teach students"
+  },
+  {
+    "objectID": "Lilly-Zapalac.github.io/Resume.html#academic-experience",
+    "href": "Lilly-Zapalac.github.io/Resume.html#academic-experience",
+    "title": "Resume",
+    "section": "Academic Experience",
+    "text": "Academic Experience"
+  },
+  {
+    "objectID": "Lilly-Zapalac.github.io/Resume.html#colorado-state-university-fort-collins-co-supervised-college-teaching-aug.-2023--dec.2023",
+    "href": "Lilly-Zapalac.github.io/Resume.html#colorado-state-university-fort-collins-co-supervised-college-teaching-aug.-2023--dec.2023",
+    "title": "Resume",
+    "section": "Colorado State University, Fort Collins, CO— Supervised College Teaching Aug. 2023- Dec.2023",
+    "text": "Colorado State University, Fort Collins, CO— Supervised College Teaching Aug. 2023- Dec.2023\n\nUsed practice sessions to implement better teaching strategies\nImplemented strategies learned in a tutoring atmosphere"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Lilly Zapalac",
     "section": "",
-    "text": "Hi, I am interested in water conservation and water law. I also am interested in qualitative analysis, and working with people to hope to find different solutiolns that can work for different communities. I hope to one day work with marine ecosystems and help with water quality."
-  },
-  {
-    "objectID": "index.html#section",
-    "href": "index.html#section",
-    "title": "Lilly Zapalac",
-    "section": "",
-    "text": "Hi, I am Lilly Zapalac, a third year Ecosystem Science student with a minor in Environmental Studies in the Liberal Arts and will be graduating in December.\nLinkedIn: https://www.linkedin.com/in/lilly-zapalac-083a1b255/\nGithub https://github.com/Lilly-Zapalac\nemail: lilly.zapalac@colostate.edu\ntemplate: jolla"
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Skills learned",
-    "section": "",
-    "text": "How to upload a picture\nHow to make new files to the navbar\nHow to make links to my socials\nAdding templates"
-  },
-  {
-    "objectID": "resources.html#quarto",
-    "href": "resources.html#quarto",
-    "title": "My favorite things",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "resources.html#running-code",
-    "href": "resources.html#running-code",
-    "title": "My favorite things",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "index.html#colorado-state-university-fort-collins-co-calculus-tutor-jan.2023-present",
-    "href": "index.html#colorado-state-university-fort-collins-co-calculus-tutor-jan.2023-present",
-    "title": "Lilly Zapalac",
-    "section": "Colorado State University, Fort Collins, CO — Calculus Tutor Jan.2023-Present",
-    "text": "Colorado State University, Fort Collins, CO — Calculus Tutor Jan.2023-Present\n\nPerform diverse learning techniques to cater to different learning styles\nCreate an environment for students to feel comfortable with asking for help\nCommunicate with more experienced tutors to better teach students"
-  },
-  {
-    "objectID": "index.html#academic-experience",
-    "href": "index.html#academic-experience",
-    "title": "Lilly Zapalac",
-    "section": "Academic Experience",
-    "text": "Academic Experience"
-  },
-  {
-    "objectID": "index.html#colorado-state-university-fort-collins-co-supervised-college-teaching-aug.-2023--dec.2023",
-    "href": "index.html#colorado-state-university-fort-collins-co-supervised-college-teaching-aug.-2023--dec.2023",
-    "title": "Lilly Zapalac",
-    "section": "Colorado State University, Fort Collins, CO— Supervised College Teaching Aug. 2023- Dec.2023",
-    "text": "Colorado State University, Fort Collins, CO— Supervised College Teaching Aug. 2023- Dec.2023\n\nUsed practice sessions to implement better teaching strategies\nImplemented strategies learned in a tutoring atmosphere"
+    "text": "Hi, I am a 3rd year Ecosystem Science and Sustainability student with a minor in Environmental Studies in the Liberal Arts. I am interested in water conservation and water law. I also am interested in qualitative analysis, and working with people to hope to find different solutions that can work for different communities. I hope to one day work with marine ecosystems and help with water quality."
   },
   {
     "objectID": "Resume.html",
@@ -89,5 +75,26 @@
     "title": "Resume",
     "section": "Colorado State University, Fort Collins, CO— Supervised College Teaching Aug. 2023- Dec.2023",
     "text": "Colorado State University, Fort Collins, CO— Supervised College Teaching Aug. 2023- Dec.2023\n\nUsed practice sessions to implement better teaching strategies\nImplemented strategies learned in a tutoring atmosphere"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a professional website for ESS 330 to learn how to use coding skills. This will help in the future, when I need a website page about myself in a future career.\nHome page"
+  },
+  {
+    "objectID": "Lilly-Zapalac.github.io/index.html",
+    "href": "Lilly-Zapalac.github.io/index.html",
+    "title": "Lilly Zapalac",
+    "section": "",
+    "text": "Hi, I am interested in water conservation and water law. I also am interested in qualitative analysis, and working with people to hope to find different solutiolns that can work for different communities. I hope to one day work with marine ecosystems and help with water quality."
+  },
+  {
+    "objectID": "Lilly-Zapalac.github.io/resources.html",
+    "href": "Lilly-Zapalac.github.io/resources.html",
+    "title": "Skills learned",
+    "section": "",
+    "text": "How to upload a picture\nHow to make new files to the navbar\nHow to make links to my socials\nAdding templates"
   }
 ]
